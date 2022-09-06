@@ -1,2 +1,3 @@
-# RSDownloader
-A convenient tool to download remote sensing products from LAADS DAAC
+![RSDownloader](/RSDownloaderGUI.png)
+# About RSDownloader
+

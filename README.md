@@ -15,12 +15,29 @@
 If you are good at programming, you can download the source code which is `SourceCode`and modify the code. If you are not good at programming, you can download client version which is `RSDownloader Ver.1.0.zip`.
 
 ## Obtain your token and order URL
-Go to LAADS DAAC website
+- Go to LAADS DAAC website
 ![LAADS DAAC website](/LAADSWeb.PNG)
-Select data and submit order
+
+- Select data and submit order
 ![submit order](/SubmitOrder.PNG)
-Find order and get order's **URL**
+
+- Find order and get order's **URL**
 ![find order](/OpenOrder.PNG)
 ![copy url](/CopyURL.PNG)
-Get **Token**
+
+- Get **Token**
 ![copy token](/CopyTOKEN.PNG)
+
+## Open RSDownloader and enter TOKEN, URL and SAVE PATH information
+- Copy and paste **TOKEN**, **URL** and SAVE PATH information to RSDownloader
+![enter information](/EnterInformation.png)
+
+Here, you don't need to enter SAVE PATH information, when you click **DOWNLOAD** button, you can select save path.
+![save path](/SavePath.png)
+![save path selected](/SavePathSelect.png)
+
+-Download and create `config.txt` file
+After enter all required information and click **DOWNLOAD** button, the entered information will be automatically saved as `config.txt` file.
+![config file](/ConfigFile.png)
+
+- Load `config.txt` file

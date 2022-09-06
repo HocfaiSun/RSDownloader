@@ -16,11 +16,11 @@ If you are good at programming, you can download the source code which is `Sourc
 
 ## Obtain your token and order URL
 Go to LAADS DAAC website
-![LAADS DAAC website](/LAADSWeb.png)
+![LAADS DAAC website](/LAADSWeb.PNG)
 Select data and submit order
-![submit order](/SubmitOrder.png)
+![submit order](/SubmitOrder.PNG)
 Find order and get order's **URL**
-![find order](/OpenOrder.png)
-![copy url](/CopyURL.png)
+![find order](/OpenOrder.PNG)
+![copy url](/CopyURL.PNG)
 Get **Token**
-![copy token](/CopyTOKEN.png)
+![copy token](/CopyTOKEN.PNG)

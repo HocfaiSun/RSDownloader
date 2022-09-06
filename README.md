@@ -8,6 +8,7 @@
 - Save the input information automaticlly (config.txt).
 - Load the saved information (config.txt) without inputing these information again.
 - Can skip the downloaded files and continue downloading new files when download the files again due to some problems, like bad network connections.
+- Give notifications when start downloanding and finish downloading.
 - Beautiful GUI design : ).
 
 # How to use it
@@ -43,15 +44,28 @@ Here, you don't need to enter SAVE PATH information, when you click **DOWNLOAD**
 ![save path selected](/SavePathSelect.png)
 
 -Download and create `config.txt` file
+
 After enter all required information and click **DOWNLOAD** button, the entered information will be automatically saved as `config.txt` file.
 
 ![config file](/ConfigFile.png)
 
 - Load `config.txt` file
+
 Click **FILE** button, you can load the saved `config.txt` file.
 
 ![load file](/ConfigSelect.png)
 
 You can also create your own config file with different name, but make sure the file is .txt file. Then you can load different config files to download remote sensing products from different orders. Before creating your own config file, please make sure you input token, url and save path information like this format.
 
-![config format](/ConfigContent.png.png)
+![config format](/ConfigContent.png)
+
+## Notifications
+
+When start downloading the files and finish downloading the files, you can get downloading informations.
+
+![start](/Start.png)
+
+![start](/Finish.png)
+
+# Other things
+Please do not remove any figure in RSDOwnloader folder! The program will not work if any figure removed.

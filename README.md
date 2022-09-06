@@ -27,6 +27,7 @@ If you are good at programming, you can download the source code which is `Sourc
 - Find order and get order's **URL**
 
 ![find order](/OpenOrder.PNG)
+
 ![copy url](/CopyURL.PNG)
 
 - Get **Token**
@@ -43,7 +44,7 @@ Here, you don't need to enter SAVE PATH information, when you click **DOWNLOAD**
 ![save path](/SavePath.png)
 ![save path selected](/SavePathSelect.png)
 
--Download and create `config.txt` file
+- Download and create `config.txt` file
 
 After enter all required information and click **DOWNLOAD** button, the entered information will be automatically saved as `config.txt` file.
 
